@@ -10,7 +10,7 @@ Therefore all microprocessors have started using multiple CPUs, referred as ***c
 | CPUs are based on this philosophy                                                               | GPUs are based on this philosophy                                                                                              |
 | Focus on latency                                                                                | Focus on throughput                                                                                                            |
 | *out-of-order* based implementation: <br>an implementation which can get something else done while the processor waits for the data to be delivered from memory        | *in-order* based implementation: <br>an implementation that would just stall until the data becomes available                  |
-| Intel 24-core processor has <br>0.33 TFLOPS for double-precision, <br>0.66 for single-precision | Nvidia A100 GPU has <br>9.7 TFLOPS for double-precision, <br>156 TFLOPS for single-precision,<br>312 TFLOPS for half-precision |
+| Intel 24-core processor has <br>0.33 TFLOPS for double-precision, <br>0.66 TFLOPS for single-precision | Nvidia A100 GPU has <br>9.7 TFLOPS for double-precision, <br>156 TFLOPS for single-precision,<br>312 TFLOPS for half-precision |
 | CPU takes thousands of clock cycles to generate and schedule threads                            | GPU takes very few clock cycles to generate and schedule threads (ref: Ch:2.2)                                                 |
 
 ### CPU vs GPU

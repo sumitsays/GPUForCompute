@@ -1,0 +1,13 @@
+- Gutter Size
+- Halo Region
+- Titling
+- Clock Speed or Clock Rate or Frequency or Processor Speed: Number of cycles a CPU executes per second, usually measured in GHz. A CPU with a clock speed of 3.2 GHz executes 3.2 billion cycles per second.
+- Memory Speed or RAM Speed: It refers to the rate at which data can be read or written to random access memory (RAM).
+- Microprocessor aka CPU
+- Semiconductor is a material made up of Silicon element (atomic number 14)
+- Mega - 10^6
+- GigaFLOPS - 10^9
+- TeraFLOPS or TrillianFLOPS - 10^12
+- Out-of-order and in-order
+- Hyperthreading
+- pipelined memory channel in gpu architecture
